@@ -27,7 +27,7 @@ export default class LocationList extends Component {
                         <div>
                             <h4>{location.name}</h4>
                             <h5>{location.address}</h5>
-                            {this.state.animals.filter(animal => animal.id == location.id).map(animal =>
+                            {this.state.animals.filter(animal => animal.id === location.id).map(animal =>
                                 <p>{animal.name}</p>
                             )}
                         </div>
