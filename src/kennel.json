@@ -1,0 +1,61 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker",
+      "position": "Veterinarian"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson",
+      "position": "Vet Tech"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc",
+      "position": "Vet Tech"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts",
+      "position": "Customer Service"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Dug",
+      "breed": "Pug"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "breed": "Cocker Spaniel"
+    },
+    {
+      "id": 3,
+      "name": "Angus",
+      "breed": "Dalmatian"
+    },
+    {
+      "id": 4,
+      "name": "Henley",
+      "breed": "Carolina Retriever"
+    },
+    {
+      "id": 5,
+      "name": "Derkins",
+      "breed": "Pug"
+    },
+    {
+      "id": 6,
+      "name": "Checkers",
+      "breed": "Bulldog"
+    },
+    {
+      "name": "adaf",
+      "breed": "asdfa",
+      "id": 8
+    }
+  ]
+}

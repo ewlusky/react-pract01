@@ -44,11 +44,12 @@ export default props => {
                     <Link className="card-link"
                         to={{
                             pathname: `/animals/${props.animal.id}`,
-                            state: { animal: props.animal}
+                            state: { animal: props.animal }
                         }}>
                         Details
-                </Link>
+                    </Link>
                 }
+                <a href="#" onClick={() => props.checkOutAnimal(props.animal.id)}>Delete</a>
             </div>
         </div>
     )
